@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 문장 교정"
+  short_description: "맞춤법과 문법을 확인하고 원뜻을 살려 자연스러운 한국어를 제안합니다"
+  default_prompt: "$korean-proofreader 아래 글의 맞춤법, 문법, 자연스러움을 점검하고 수정안과 이유를 제시해 주세요."
